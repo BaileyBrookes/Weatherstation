@@ -1293,6 +1293,8 @@ warp.h
 /home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c
 stdint.h
 -
+unistd.h
+-
 fsl_spi_master_driver.h
 /home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/fsl_spi_master_driver.h
 fsl_port_hal.h
@@ -1344,6 +1346,8 @@ stdio.h
 stdlib.h
 -
 string.h
+-
+unistd.h
 -
 fsl_misc_utilities.h
 /home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/fsl_misc_utilities.h

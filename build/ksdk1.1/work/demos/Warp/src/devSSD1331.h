@@ -56,3 +56,6 @@ typedef struct colour {
 
 int	devSSD1331init(void);
 void drawLine(coord_t start, coord_t end, colour_t colour);
+void screen1(char temperature[], char pressure[]);
+void screen2(char humidity[], char WindSpeed[]);
+void clearScreen();

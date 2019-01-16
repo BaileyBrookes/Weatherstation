@@ -1,9 +1,26 @@
+// devSD1331.c -----------------------------------------------------------------
+//
+// Purpose: Driver for the SSD1331 OLED screen, writeen purposefully for this
+//          project. This means it only has the letters written reuqired for the
+//		    4 measurements so this driver isn't suitable for other uses. However
+//          it can be extended on to include  all other letters.
+//
+// Written by: B Brookes for the 4B25 weatherstation project
+//
+// Note: When screen co-ordinates are used the top left pixel when the pins are
+//       at the top of the device are (0,0) written (column, row),
+//       and the coordinates are in hexidecimal i.e. the screen is 96x64, that
+//       is 5Fx3F in hex. Hex values are denoted as 0X
+//
+// -----------------------------------------------------------------------------
+
 #include <stdint.h>
 #include <unistd.h>
 
+//  API incldues
 #include "fsl_spi_master_driver.h"
 #include "fsl_port_hal.h"
-
+// Includes for warp firmware
 #include "SEGGER_RTT.h"
 #include "gpio_pins.h"
 #include "warp.h"
@@ -60,7 +77,7 @@ writeCommand(uint8_t commandByte)
 	return status;
 }
 
-
+// clearScreen(): Clears whatever is on the screen
 void clearScreen()
 {
 	writeCommand(0x25);
@@ -70,7 +87,9 @@ void clearScreen()
 	writeCommand(0x3F);
 }
 
-void drawLine(coord_t start, coord_t end, colour_t colour)
+// drawLine(start,end,colour): Draws a line from the start co-ordinate to end in
+// the given colour
+void drawLine(coord_t start, coord_t end, colour_t colour) //
 {
 	writeCommand(0x21);
 	writeCommand(start.col);
@@ -81,7 +100,9 @@ void drawLine(coord_t start, coord_t end, colour_t colour)
 	writeCommand(colour.green);
 	writeCommand(colour.blue);
 }
-
+// drawSquare(side_length, col, row, colour): draws a square with side length
+// side_length that is not filled. The top left corner of the square is
+// (col,row)
 void drawSquare(int side_length, uint8_t col, uint8_t row, colour_t colour)
 {
 	writeCommand(0x22);
@@ -98,6 +119,7 @@ void drawSquare(int side_length, uint8_t col, uint8_t row, colour_t colour)
 
 }
 
+// horizontalSegment(start,colour):
 void horizontalSegment(coord_t start, colour_t colour)
 {
 	writeCommand(0x21);
@@ -110,6 +132,7 @@ void horizontalSegment(coord_t start, colour_t colour)
 	writeCommand(colour.blue);
 }
 
+// verticalSegment(start, colour):
 void verticalSegment(coord_t start, colour_t colour)
 {
 	writeCommand(0x21);
@@ -122,17 +145,21 @@ void verticalSegment(coord_t start, colour_t colour)
 	writeCommand(colour.blue);
 }
 
-void drawSegment(int segment, uint8_t col, uint8_t row, colour_t colour)
-{
-	coord_t start;
-	switch (segment)
-	{
-		case 0:
-			start.col = col + 1;
-			start.row = row + 9;
-			horizontalSegment(start, colour);
-			break;
-
+// drawSegment(segment, col, row, colour): Numbers on the screen are written as
+// a 7 segment display. This function writes the segments to the screen.
+// The ASCI art on the right shows what each case in the switch statement
+// writes one segment. The orgin of the number is the top left.
+void drawSegment(int segment, uint8_t col, uint8_t row, colour_t colour)        //       3
+{																				//    --------		ASCI art of the 7 segment display
+	coord_t start;																//   |        |
+	switch (segment)															// 1 |        | 2
+	{																			//   |   0    |
+		case 0:																	//    --------
+			start.col = col + 1;												//   |        |
+			start.row = row + 9;												// 4 |        | 5
+			horizontalSegment(start, colour);									//   |        |
+			break;																//    --------
+																				//		 6
 		case 1:
 			start.col = col + 0;
 			start.row = row + 1;
@@ -171,6 +198,8 @@ void drawSegment(int segment, uint8_t col, uint8_t row, colour_t colour)
 	}
 }
 
+// drawNumber(number, col, row, colour): Draws the number using a 7 segment
+// display in a colour. (col, row) is the top left of the number.
 void drawNumber(char number, uint8_t col, uint8_t row, colour_t colour)
 {
 	switch (number) {
@@ -266,6 +295,8 @@ void drawNumber(char number, uint8_t col, uint8_t row, colour_t colour)
 	}
 }
 
+// drawSeperator(): Draws a horizontal line across the center of the screen to
+// serpeate the two readings
 void drawSeperator(void)
 {
 	// Draw green line across middle of screen
@@ -285,6 +316,8 @@ void drawSeperator(void)
 	drawLine(SeperatorStart, SeperatorEnd, SeperatorColour);
 }
 
+// drawLineShape(type, col, row, length, colour): drawsone of 4 types of line in
+// the colour and of a particluar length.
 void drawLineShape(char type, uint8_t col, uint8_t row, int length, colour_t colour)
 {
 	coord_t start;
@@ -320,6 +353,8 @@ void drawLineShape(char type, uint8_t col, uint8_t row, int length, colour_t col
 	}
 }
 
+// drawCricle(size, origin_col, origin_row, colour): draws a circle of two
+// fixed sizes, either small for use in text or nig in used for units
 void drawCircle(char size, uint8_t origin_col, uint8_t origin_row, colour_t colour)
 {
 	switch (size)
@@ -340,6 +375,9 @@ void drawCircle(char size, uint8_t origin_col, uint8_t origin_row, colour_t colo
 	}
 }
 
+// drawLetter(letter, origin_col, origin_row, colour): Draws letter in order to
+// spell a description of the reading being displayed on the screen. the origin
+// is the top left of the letter if a rectangel was drawn to contain the letter.
 void drawLetter(char letter, uint8_t origin_col, uint8_t origin_row, colour_t colour)
 {
 	coord_t LineStart;
@@ -412,7 +450,7 @@ void drawLetter(char letter, uint8_t origin_col, uint8_t origin_row, colour_t co
 
 		case 'W':
 		drawLineShape('|', origin_col    , origin_row    , 6, colour);
-		drawLineShape('Y', origin_col    , origin_row + 2, 3, colour);
+		drawLineShape('Y', origin_col + 2, origin_row + 4, 3, colour);
 		drawLineShape('/', origin_col    , origin_row + 6, 3, colour);
 		drawLineShape('|', origin_col + 4, origin_row    , 6, colour);
 		break;
@@ -447,6 +485,9 @@ void drawLetter(char letter, uint8_t origin_col, uint8_t origin_row, colour_t co
 	}
 }
 
+// drawUnits(measurement, origin_col, origin_row, colour): draws out the units
+// for the measuremnet being displayed. The orign is the trectangle that
+// contains the units.
 void drawUnits(char measurement, uint8_t origin_col, uint8_t origin_row, colour_t colour)
 {
 	switch (measurement)
@@ -531,6 +572,11 @@ void drawUnits(char measurement, uint8_t origin_col, uint8_t origin_row, colour_
 	}
 }
 
+// screen1(temperature, pressure): draw the screen that shows the temperature
+// and pressure from the sensortag. Temperature and pressure are passed as
+// strings so they can be split up and passed as character to the function
+// drawNumber()
+// Note: temperture is passed as +00.0 and pressure as 0000.0
 void screen1(char temperature[], char pressure[])
 {
 	colour_t text_colour; 		// For the description text
@@ -599,6 +645,11 @@ void screen1(char temperature[], char pressure[])
 	drawUnits('P', 0x3A, 0x32, value_colour);
 }
 
+// screen2(humidity, WindSpeed): draw the screen that shows the humidity
+// and wind speed from the sensortag. Humidity and wind speed are passed as
+// strings so they can be split up and passed as character to the function
+// drawNumber()
+// Note: humidty is passed as 00.0 and wind speed as 00.0
 void screen2(char humidity[], char WindSpeed[])
 {
 	colour_t text_colour; 		// For the description text
@@ -623,6 +674,7 @@ void screen2(char humidity[], char WindSpeed[])
 	drawLetter('Y', 0x24, 0x01, text_colour);
 	drawLetter(':', 0x2D, 0x01, text_colour);
 
+	// Write the humidty string passed to the function out
 	drawNumber(humidity[0], 0x01, 0x0A, value_colour);  // 10s
 	drawNumber(humidity[1], 0x0D, 0x0A, value_colour);	// 1s
 	drawSquare(2, 0x1A, 0x1B, value_colour);			   		// Decimal point

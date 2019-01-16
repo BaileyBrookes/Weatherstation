@@ -1281,12 +1281,11 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x000000000000130c       0xd6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x000000000000130c                drawCircle
  .text.drawLetter
-                0x00000000000013e2      0x4c0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000013e2      0x4c2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000013e2                drawLetter
  .text.drawUnits
-                0x00000000000018a2      0x280 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
-                0x00000000000018a2                drawUnits
- *fill*         0x0000000000001b22        0x2 
+                0x00000000000018a4      0x280 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000018a4                drawUnits
  .text.screen1  0x0000000000001b24      0x1cc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001b24                screen1
  .text.screen2  0x0000000000001cf0      0x188 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj

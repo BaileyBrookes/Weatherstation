@@ -1,3 +1,11 @@
+// devSD1331.h -----------------------------------------------------------------
+//
+// Purpose: Header file for the SD1331 driver.
+//
+// Written by: B Brookes for the 4B25 weatherstation project
+//
+// -----------------------------------------------------------------------------
+
 /*
  *	See https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino for the Arduino driver.
  */
@@ -42,18 +50,21 @@ typedef enum
 	kSSD1331CommandVCOMH		= 0xBE,
 } SSD1331Commands;
 
+// Strucutre to hold the cocordinates of an origin, expressed as a type
 typedef struct coords {
 
 	uint8_t row;
 	uint8_t col;
 } coord_t;
 
+// Structure to hold the colour of a drawing, expressed as a type
 typedef struct colour {
 	uint8_t red;
 	uint8_t blue;
 	uint8_t green;
 } colour_t;
 
+// Function prototypes
 int	devSSD1331init(void);
 void drawLine(coord_t start, coord_t end, colour_t colour);
 void screen1(char temperature[], char pressure[]);

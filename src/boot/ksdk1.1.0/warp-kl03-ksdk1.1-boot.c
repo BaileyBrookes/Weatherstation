@@ -37,6 +37,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <unistd.h>
 
 #include "fsl_misc_utilities.h"
 #include "fsl_device_registers.h"
@@ -1097,6 +1098,16 @@ int main(void)
 		 *	want to use menu to progressiveley change the machine state with various
 		 *	commands.
 		 */
+
+		 screen1("+21.2", "1034");
+		 int i = 0;
+		 //for (i; i < i < 10000; i++)
+		 //{}
+		 clearScreen();
+		 screen2("12.3", "45.6");
+		 //for (i; i < 10000; i++)
+		 //{}
+		 clearScreen();
 	}
 
 	return 0;

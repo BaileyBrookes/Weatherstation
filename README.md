@@ -19,3 +19,5 @@ Contains the modified warp firmware for the project
 Hardware design
 ### Screen design
 Excel was used to design the screen that shows the measurement values
+### bdb31_coursework_6.pdf
+Project report

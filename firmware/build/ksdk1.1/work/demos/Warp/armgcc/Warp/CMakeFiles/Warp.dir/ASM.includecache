@@ -6,5 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S
+/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S
 

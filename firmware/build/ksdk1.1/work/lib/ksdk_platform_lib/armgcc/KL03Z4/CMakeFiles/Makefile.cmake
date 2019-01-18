@@ -12,7 +12,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeSystem.cmake"
   "CMakeLists.txt"
-  "/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/tools/cmake_toolchain_files/armgcc.cmake"
+  "/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/tools/cmake_toolchain_files/armgcc.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeASMCompiler.cmake.in"
   "/usr/share/cmake-3.10/Modules/CMakeASMInformation.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in"

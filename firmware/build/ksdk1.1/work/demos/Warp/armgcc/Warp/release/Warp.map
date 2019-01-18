@@ -1,23 +1,23 @@
 Archive member included to satisfy reference by file (symbol)
 
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (OSA_TimeDelay)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (OSA_TimeDelay)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (CLOCK_SYS_Init)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (CLOCK_SYS_Init)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (CLOCK_SYS_SetConfiguration)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (INT_SYS_InstallHandler)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_power_manager.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (POWER_SYS_Init)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (POWER_SYS_Init)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_gpio_driver.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_power_manager.c.obj) (GPIO_DRV_InputPinInit)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_shared_function.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj (I2C_DRV_IRQHandler)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj (I2C_DRV_IRQHandler)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_common.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_shared_function.c.obj) (g_i2cBaseAddr)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_master_driver.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (I2C_DRV_MasterInit)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (I2C_DRV_MasterInit)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_slave_driver.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_i2c_shared_function.c.obj) (I2C_DRV_SlaveIRQHandler)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_llwu_hal.c.obj)
@@ -29,17 +29,17 @@ Archive member included to satisfy reference by file (symbol)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj) (OSC_HAL_SetExternalRefClkCmd)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_rtc_hal.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj (RTC_HAL_ConvertSecsToDatetime)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj (RTC_HAL_ConvertSecsToDatetime)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_rtc_driver.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (RTC_DRV_Init)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (RTC_DRV_Init)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_rtc_common.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_rtc_driver.c.obj) (g_rtcSecondsIrqId)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_sim_hal_MKL03Z4.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj) (CLOCK_HAL_SetOutDiv)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_spi_shared_function.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj (SPI_DRV_IRQHandler)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj (SPI_DRV_IRQHandler)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_spi_master_driver.c.obj)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (SPI_DRV_MasterInit)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (SPI_DRV_MasterInit)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_spi_slave_driver.c.obj)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_spi_shared_function.c.obj) (SPI_DRV_SlaveIRQHandler)
 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_spi_common.c.obj)
@@ -61,7 +61,7 @@ Archive member included to satisfy reference by file (symbol)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-calloc.o)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (calloc)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-errno.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj (__errno)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj (__errno)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-exit.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (exit)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-impure.o)
@@ -71,7 +71,7 @@ Archive member included to satisfy reference by file (symbol)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-malloc.o)
                               ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (malloc)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-memcpy-stub.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj (memcpy)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj (memcpy)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-memset.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (memset)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-nano-callocr.o)
@@ -83,21 +83,21 @@ Archive member included to satisfy reference by file (symbol)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-sbrkr.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-strcpy.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj (strcpy)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj (strcpy)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-strlen.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj (strlen)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj (strlen)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-mlock.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-reent.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_thumb1_case_uqi.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj (__gnu_thumb1_case_uqi)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj (__gnu_thumb1_case_uqi)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_thumb1_case_uhi.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj (__gnu_thumb1_case_uhi)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj (__gnu_thumb1_case_uhi)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (__aeabi_uidiv)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj (__aeabi_uidiv)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
-                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj (__aeabi_idiv)
+                              CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj (__aeabi_idiv)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
                               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libnosys.a(_exit.o)
@@ -117,349 +117,349 @@ Discarded input sections
  .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
  .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
  .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
- .text._sbrk    0x0000000000000000       0x38 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .text._sbrk    0x0000000000000000       0x38 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
  .text.assert_func
-                0x0000000000000000       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+                0x0000000000000000       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
  .bss.heap_end.5292
-                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
  .rodata.assert_func.str1.1
-                0x0000000000000000       0x3e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+                0x0000000000000000       0x3e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.disableSPIpins
-                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.enableI2Cpins
-                0x0000000000000000       0x2c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x2c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.disableI2Cpins
-                0x0000000000000000       0x34 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x34 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.setTPS82740CommonControlLines
-                0x0000000000000000      0x110 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000      0x110 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.enableTPS82740A
-                0x0000000000000000       0x1c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x1c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.enableTPS82740B
-                0x0000000000000000       0x1c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x1c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.enableSssupply
-                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.warpLowPowerSecondsSleep
-                0x0000000000000000       0x1e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x1e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.sleepUntilReset
-                0x0000000000000000       0x26 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x26 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.printPinDirections
-                0x0000000000000000        0x2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000        0x2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.dumpProcessorState
-                0x0000000000000000      0x134 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000      0x134 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.loopForSensor
-                0x0000000000000000      0x244 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000      0x244 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.char2int
-                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.readHexByte
-                0x0000000000000000       0x2a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x2a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.read4digits
-                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.writeByteToI2cDeviceRegister
-                0x0000000000000000       0x58 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x58 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .text.writeBytesToSpi
-                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .bss.devicePAN1323ETUState
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .bss.devicePAN1326BState
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .bss.i2cMasterState
-                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .data.gWarpI2cBaudRateKbps
-                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .data.gWarpUartBaudRateKbps
-                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .rodata.dumpProcessorState.str1.1
-                0x0000000000000000      0x114 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000      0x114 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .rodata.enableSssupply.str1.1
-                0x0000000000000000       0x38 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0x38 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .rodata.loopForSensor.str1.1
-                0x0000000000000000       0xc4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000000       0xc4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .rodata.setTPS82740CommonControlLines.str1.1
-                0x0000000000000000       0x2d CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000000       0x2d CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
  .text.updateClockManagerToRunMode
-                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
  .text.updateClockManagerToVlprMode
-                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
  .text.update_clock_mode
-                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.initBMX055accel
-                0x0000000000000000        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.readSensorRegisterBMX055accel
-                0x0000000000000000       0x50 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000       0x50 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.initBMX055mag
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.readSensorRegisterBMX055mag
-                0x0000000000000000       0x54 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000       0x54 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.initBMX055gyro
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .text.readSensorRegisterBMX055gyro
-                0x0000000000000000       0x50 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+                0x0000000000000000       0x50 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
  .text.initADXL362
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
  .text.writeSensorRegisterADXL362
-                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
  .text.readSensorRegisterADXL362
-                0x0000000000000000        0xe CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+                0x0000000000000000        0xe CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
  .text.readSensorSignalADXL362
-                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
  .text.initMMA8451Q
-                0x0000000000000000        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+                0x0000000000000000        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
  .text.readSensorRegisterMMA8451Q
-                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
  .text.initLPS25H
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
  .text.readSensorRegisterLPS25H
-                0x0000000000000000       0x6c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+                0x0000000000000000       0x6c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
  .text.initHDC1000
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
  .text.readSensorRegisterHDC1000
-                0x0000000000000000       0xc0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
- .rodata        0x0000000000000000        0x2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+                0x0000000000000000       0xc0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+ .rodata        0x0000000000000000        0x2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
  .text.initMAG3110
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
  .text.readSensorRegisterMAG3110
-                0x0000000000000000       0x58 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+                0x0000000000000000       0x58 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
  .text.initSI7021
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
  .text.readSensorRegisterSI7021
-                0x0000000000000000       0x84 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+                0x0000000000000000       0x84 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
  .text.initL3GD20H
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
  .text.readSensorRegisterL3GD20H
-                0x0000000000000000       0x68 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+                0x0000000000000000       0x68 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
  .text.initBME680
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
  .text.readSensorRegisterBME680
-                0x0000000000000000       0x7c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+                0x0000000000000000       0x7c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
  .text.initTCS34725
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
  .text.readSensorRegisterTCS34725
-                0x0000000000000000       0x70 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+                0x0000000000000000       0x70 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
  .text.initSI4705
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
  .text.readSensorRegisterSI4705
-                0x0000000000000000       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+                0x0000000000000000       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
  .text.initCCS811
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
  .text.readSensorRegisterCCS811
-                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
  .text.initAMG8834
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
  .text.readSensorRegisterAMG8834
-                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
  .text.initPAN1326B
-                0x0000000000000000       0x2c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+                0x0000000000000000       0x2c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
  .text.initPAN1323ETU
-                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
  .text.initAS7262
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
  .text.readSensorRegisterAS7262
-                0x0000000000000000       0xf4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
- .rodata        0x0000000000000000        0x6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+                0x0000000000000000       0xf4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+ .rodata        0x0000000000000000        0x6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
  .text.initAS7263
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
  .text.readSensorRegisterAS7263
-                0x0000000000000000       0xf4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
- .rodata        0x0000000000000000        0x6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+                0x0000000000000000       0xf4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+ .rodata        0x0000000000000000        0x6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text._PostTerminalSwitch.constprop.0
-                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x24 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_ReadNoLock
-                0x0000000000000000       0xa4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0xa4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_Read
-                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x1a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_WriteWithOverwriteNoLock
-                0x0000000000000000       0xbc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0xbc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_WriteSkipNoLock
-                0x0000000000000000       0xb0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0xb0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_GetKey
-                0x0000000000000000       0x1e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x1e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_WaitKey
-                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_HasKey
-                0x0000000000000000       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_HasData
-                0x0000000000000000       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_AllocDownBuffer
-                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_AllocUpBuffer
-                0x0000000000000000       0x68 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x68 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_ConfigDownBuffer
-                0x0000000000000000       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_SetNameUpBuffer
-                0x0000000000000000       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_SetNameDownBuffer
-                0x0000000000000000       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_Init
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_SetTerminal
-                0x0000000000000000       0x7c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0x7c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_TerminalOut
-                0x0000000000000000       0xa8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000       0xa8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .bss._ActiveTerminal
-                0x0000000000000000        0x1 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000000        0x1 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .rodata._aTerminalId
-                0x0000000000000000       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .text._StoreChar
-                0x0000000000000000       0x3e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000       0x3e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .text._PrintUnsigned
-                0x0000000000000000       0xd4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000       0xd4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .text.SEGGER_RTT_vprintf
-                0x0000000000000000      0x248 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000      0x248 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .text.SEGGER_RTT_printf
-                0x0000000000000000       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .rodata._aV2C.4368
-                0x0000000000000000       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+                0x0000000000000000       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
  .text.SystemCoreClockUpdate
-                0x0000000000000000       0x64 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+                0x0000000000000000       0x64 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
  .data.SystemCoreClock
-                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
- .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
- .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
- .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+                0x0000000000000000        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
  .text.initINA219
-                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+                0x0000000000000000        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
  .text.readSensorRegisterINA219
-                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
- .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+                0x0000000000000000       0x44 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
  .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+                0x0000000000000000       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
  .text          0x0000000000000000        0x0 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .data          0x0000000000000000        0x0 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .bss           0x0000000000000000        0x0 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
@@ -1054,35 +1054,35 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb
 LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libm.a
                 0x0000000000000200                __stack_size__ = 0x200
                 0x0000000000000000                __heap_size__ = 0x0
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
-LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/utilities/src/fsl_misc_utilities.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBMX055.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devADXL362.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMMA8451Q.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devLPS25H.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devHDC1000.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devMAG3110.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI7021.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devL3GD20H.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devBME680.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devTCS34725.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSI4705.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devCCS811.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAMG8834.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devPAN1326.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7262.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devAS7263.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT_printf.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+LOAD CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devINA219.c.obj
 START GROUP
 LOAD ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a
 LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libm.a
@@ -1108,14 +1108,14 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x0000000000000000                __VECTOR_TABLE = .
                 0x0000000000000000                . = ALIGN (0x4)
  *(.isr_vector)
- .isr_vector    0x0000000000000000       0xc0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+ .isr_vector    0x0000000000000000       0xc0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
                 0x0000000000000000                __isr_vector
                 0x00000000000000c0                . = ALIGN (0x4)
 
 .flash_config   0x0000000000000400       0x10
                 0x0000000000000400                . = ALIGN (0x4)
  *(.FlashConfig)
- .FlashConfig   0x0000000000000400       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+ .FlashConfig   0x0000000000000400       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
                 0x0000000000000410                . = ALIGN (0x4)
 
 .text           0x0000000000000410     0x35ac
@@ -1125,7 +1125,7 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  .text          0x0000000000000458       0x78 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
                 0x0000000000000458                _mainCRTStartup
                 0x0000000000000458                _start
- .text          0x00000000000004d0       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+ .text          0x00000000000004d0       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
                 0x00000000000004d0                Reset_Handler
                 0x00000000000004f8                Reserved18_IRQHandler
                 0x00000000000004f8                Reserved16_IRQHandler
@@ -1177,121 +1177,121 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x000000000000064c                __aeabi_idiv0
  *(.text*)
  .text.clockManagerCallbackRoutine
-                0x0000000000000650        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000650        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000650                clockManagerCallbackRoutine
  .text.callback0
-                0x000000000000065c       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000000000065c       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000000000065c                callback0
  .text.RTC_IRQHandler
-                0x0000000000000670       0x16 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000670       0x16 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000670                RTC_IRQHandler
  *fill*         0x0000000000000686        0x2 
  .text.RTC_Seconds_IRQHandler
-                0x0000000000000688       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000688       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000688                RTC_Seconds_IRQHandler
  .text.enableSPIpins
-                0x0000000000000698       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000698       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000698                enableSPIpins
  .text.lowPowerPinStates
-                0x00000000000006f4      0x138 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x00000000000006f4      0x138 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x00000000000006f4                lowPowerPinStates
  .text.disableTPS82740A
-                0x000000000000082c        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000000000082c        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000000000082c                disableTPS82740A
  .text.disableTPS82740B
-                0x0000000000000836        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000836        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000836                disableTPS82740B
  .text.disableSssupply
-                0x0000000000000840       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000840       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000840                disableSssupply
  .text.startup.main
-                0x0000000000000854      0x25c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000854      0x25c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x0000000000000854                main
  .text.setSleepRtcAlarm
-                0x0000000000000ab0       0x2e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000ab0       0x2e CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
  *fill*         0x0000000000000ade        0x2 
  .text.gpioDisableWakeUp
-                0x0000000000000ae0       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000ae0       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
                 0x0000000000000ae0                gpioDisableWakeUp
  .text.warpSetLowPowerMode
-                0x0000000000000af8       0xf2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x0000000000000af8       0xf2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
                 0x0000000000000af8                warpSetLowPowerMode
  .text._GetAvailWriteSpace
-                0x0000000000000bea       0x12 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000bea       0x12 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text._WriteNoCheck
-                0x0000000000000bfc       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000bfc       0x3c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text._WriteBlocking
-                0x0000000000000c38       0x5a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000c38       0x5a CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  *fill*         0x0000000000000c92        0x2 
- .text._DoInit  0x0000000000000c94       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .text._DoInit  0x0000000000000c94       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .text.SEGGER_RTT_WriteNoLock
-                0x0000000000000cf4       0x6c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000cf4       0x6c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
                 0x0000000000000cf4                SEGGER_RTT_WriteNoLock
  .text.SEGGER_RTT_Write
-                0x0000000000000d60       0x34 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000d60       0x34 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
                 0x0000000000000d60                SEGGER_RTT_Write
  .text.SEGGER_RTT_WriteString
-                0x0000000000000d94       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000d94       0x18 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
                 0x0000000000000d94                SEGGER_RTT_WriteString
  .text.SEGGER_RTT_ConfigUpBuffer
-                0x0000000000000dac       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000000dac       0x60 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
                 0x0000000000000dac                SEGGER_RTT_ConfigUpBuffer
  .text.I2C0_IRQHandler
-                0x0000000000000e0c        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+                0x0000000000000e0c        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
                 0x0000000000000e0c                I2C0_IRQHandler
  .text.SPI0_IRQHandler
-                0x0000000000000e16        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+                0x0000000000000e16        0xa CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
                 0x0000000000000e16                SPI0_IRQHandler
  .text.SystemInit
-                0x0000000000000e20       0x84 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+                0x0000000000000e20       0x84 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
                 0x0000000000000e20                SystemInit
  .text.init_data_bss
-                0x0000000000000ea4       0x74 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
+                0x0000000000000ea4       0x74 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
                 0x0000000000000ea4                init_data_bss
  .text.writeCommand
-                0x0000000000000f18       0x4c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000000f18       0x4c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
  .text.clearScreen
-                0x0000000000000f64       0x22 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000000f64       0x22 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000000f64                clearScreen
  .text.drawLine
-                0x0000000000000f86       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000000f86       0x40 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000000f86                drawLine
  .text.drawSquare
-                0x0000000000000fc6       0x56 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000000fc6       0x56 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000000fc6                drawSquare
  .text.horizontalSegment
-                0x000000000000101c       0x48 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x000000000000101c       0x48 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x000000000000101c                horizontalSegment
  .text.verticalSegment
-                0x0000000000001064       0x48 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000001064       0x48 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001064                verticalSegment
  .text.drawSegment
-                0x00000000000010ac       0x52 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000010ac       0x52 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000010ac                drawSegment
  .text.drawNumber
-                0x00000000000010fe      0x182 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000010fe      0x182 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000010fe                drawNumber
  .text.drawSeperator
-                0x0000000000001280       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000001280       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001280                drawSeperator
  .text.drawLineShape
-                0x00000000000012b0       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000012b0       0x5c CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000012b0                drawLineShape
  .text.drawCircle
-                0x000000000000130c       0xd6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x000000000000130c       0xd6 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x000000000000130c                drawCircle
  .text.drawLetter
-                0x00000000000013e2      0x4c2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000013e2      0x4c2 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000013e2                drawLetter
  .text.drawUnits
-                0x00000000000018a4      0x280 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x00000000000018a4      0x280 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x00000000000018a4                drawUnits
- .text.screen1  0x0000000000001b24      0x1cc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .text.screen1  0x0000000000001b24      0x1cc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001b24                screen1
- .text.screen2  0x0000000000001cf0      0x188 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .text.screen2  0x0000000000001cf0      0x188 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001cf0                screen2
  .text.devSSD1331init
-                0x0000000000001e78      0x168 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000001e78      0x168 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000000001e78                devSSD1331init
  .text.OSA_SemaCreate
                 0x0000000000001fe0        0xe ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
@@ -1570,9 +1570,9 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.1
-                0x00000000000038e8       0x3d CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x00000000000038e8       0x3d CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .rodata._DoInit.str1.1
-                0x0000000000003925       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000000003925       0x14 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .rodata.portGateTable
                 0x0000000000003939        0x2 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj)
  *fill*         0x000000000000393b        0x1 
@@ -1720,22 +1720,22 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  *(.data)
  *(.data*)
  .data.clockCallbackTable
-                0x000000001ffffe00        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001ffffe00        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .data.clockManagerCallbackUserlevelStructure
-                0x000000001ffffe04        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001ffffe04        0xc CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001ffffe04                clockManagerCallbackUserlevelStructure
  .data.gWarpMode
-                0x000000001ffffe10        0x1 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001ffffe10        0x1 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001ffffe10                gWarpMode
  *fill*         0x000000001ffffe11        0x3 
  .data.gWarpSpiBaudRateKbps
-                0x000000001ffffe14        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001ffffe14        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001ffffe14                gWarpSpiBaudRateKbps
  .data.inputPins
-                0x000000001ffffe18       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+                0x000000001ffffe18       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
                 0x000000001ffffe18                inputPins
  .data.outputPins
-                0x000000001ffffe28       0xf0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+                0x000000001ffffe28       0xf0 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
                 0x000000001ffffe28                outputPins
  .data.g_defaultClockConfigurations
                 0x000000001fffff18       0x18 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj)
@@ -1758,25 +1758,25 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  .bss           0x000000001fffff90       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
  *(.bss*)
  .bss.gWarpSleeptimeSeconds
-                0x000000001fffffac        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001fffffac        0x4 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001fffffac                gWarpSleeptimeSeconds
  .bss.spiMasterState
-                0x000000001fffffb0       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001fffffb0       0x30 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001fffffb0                spiMasterState
  .bss.spiUserConfig
-                0x000000001fffffe0        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x000000001fffffe0        0x8 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                 0x000000001fffffe0                spiUserConfig
  .bss._SEGGER_RTT
-                0x000000001fffffe8       0x78 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x000000001fffffe8       0x78 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
                 0x000000001fffffe8                _SEGGER_RTT
  .bss._acDownBuffer
-                0x0000000020000060       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x0000000020000060       0x10 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .bss._acUpBuffer
-                0x0000000020000070      0x100 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
- .bss.inBuffer  0x0000000020000170       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000020000070      0x100 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .bss.inBuffer  0x0000000020000170       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000020000170                inBuffer
  .bss.payloadBytes
-                0x0000000020000190       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000020000190       0x20 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
                 0x0000000020000190                payloadBytes
  .bss.g_freeTaskControlBlock
                 0x00000000200001b0        0x4 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
@@ -1834,25 +1834,25 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  .ARM.attributes
                 0x000000000000004a       0x1b /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
  .ARM.attributes
-                0x0000000000000065       0x1b CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
+                0x0000000000000065       0x1b CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/gcc/startup_MKL03Z4.S.obj
  .ARM.attributes
-                0x0000000000000080       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+                0x0000000000000080       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
  .ARM.attributes
-                0x00000000000000b2       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+                0x00000000000000b2       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
  .ARM.attributes
-                0x00000000000000e4       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+                0x00000000000000e4       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
  .ARM.attributes
-                0x0000000000000116       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+                0x0000000000000116       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
  .ARM.attributes
-                0x0000000000000148       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+                0x0000000000000148       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
  .ARM.attributes
-                0x000000000000017a       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+                0x000000000000017a       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
  .ARM.attributes
-                0x00000000000001ac       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
+                0x00000000000001ac       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
  .ARM.attributes
-                0x00000000000001de       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+                0x00000000000001de       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
  .ARM.attributes
-                0x0000000000000210       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+                0x0000000000000210       0x32 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
  .ARM.attributes
                 0x0000000000000242       0x32 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .ARM.attributes
@@ -1937,16 +1937,16 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
 OUTPUT(release/Warp.elf elf32-littlearm)
 
 .comment        0x0000000000000000       0x7f
- .comment       0x0000000000000000       0x7f CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
+ .comment       0x0000000000000000       0x7f CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-boot.c.obj
                                          0x80 (size before relaxing)
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/platform/startup/startup.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
- .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/warp-kl03-ksdk1.1-powermodes.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/SEGGER_RTT.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/i2c/fsl_i2c_irq.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/drivers/src/spi/fsl_spi_irq.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/MKL03Z4/system_MKL03Z4.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/platform/startup/startup.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/boards/Warp/gpio_pins.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/Warp.dir/home/bailey/4b25/Weatherstation/firmware/build/ksdk1.1/work/demos/Warp/src/devSSD1331.c.obj
  .comment       0x000000000000007f       0x80 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .comment       0x000000000000007f       0x80 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
  .comment       0x000000000000007f       0x80 ../../../../lib/ksdk_platform_lib/armgcc/KL03Z4/release/libksdk_platform.a(fsl_clock_MKL03Z4.c.obj)

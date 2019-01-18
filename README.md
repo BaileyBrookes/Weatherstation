@@ -13,6 +13,8 @@ There are two new drivers within src/boot:
    `BLEModem.c/ BLEModem.c `: This is the driver for communicating with the sensor tag over Bluetooth.
    
    Note: I was uanable to get the sensortag to connect the the bluetooth modem pruchased. I talso esitmated the complexity in writing the UART driver for the modem. I am dissapointed in my progress in this error of the project na dwish I had realsied my shortcomings sooner.
+   
+   So the project can compile, the BLEModem.* have been left out of the CMake and 
 
 ## Repository structure
 ### Firmware
